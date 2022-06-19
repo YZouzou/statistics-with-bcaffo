@@ -20,5 +20,5 @@ Links to the courses:
  
  
 ## Notes:
-* The notebooks may include some extra applications of the topics that were not included in the lectures. These I found helpful for understanding the topic and getting a grasp on it.
-* The notebooks do not necessarily include all examples in exercises in the lectures.
+* The notebooks may include some extra applications that were not included in the lectures. These I found helpful for understanding the topic and getting a grasp on it.
+* The notebooks do not necessarily include all examples and exercises in the lectures.

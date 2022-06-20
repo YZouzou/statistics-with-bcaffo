@@ -1,5 +1,8 @@
 # Statistics with Brian Caffo
 
+<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Gaussian%20Distribution.png" width="800" height="400">
+
+
 This repository contains Python notebooks I created while taking Brian Caffo's statistics courses. All course examples and exercises are in R, so this repo is useful for someone taking the courses and willing to apply the course learnings in Python. I added the links to the course material of the courses included in this repo. I encourage you to check Brian Caffo's [Youtube channel](https://www.youtube.com/c/BrianCaffo/playlists) and the courses provided by Johnny Hopkins University on [Coursera](https://www.coursera.org/) for more learning material on statistics and data science.
 
 Links to the courses:
